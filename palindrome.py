@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 x = input('Enter the word :')
 x = x.lower() #converts the word into lower case
 
